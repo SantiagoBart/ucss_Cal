@@ -1,0 +1,15 @@
+c:\users\jhonatan\documents\visual studio 2015\Projects\UCSS_Calculator\UCSS_Calculator\bin\Debug\UCSS_Calculator.exe.config
+C:\Users\Jhonatan\Documents\Visual Studio 2015\Projects\UCSS_Calculator\UCSS_Calculator\bin\Debug\UCSS_Calculator.exe
+C:\Users\Jhonatan\Documents\Visual Studio 2015\Projects\UCSS_Calculator\UCSS_Calculator\bin\Debug\UCSS_Calculator.pdb
+C:\Users\Jhonatan\Documents\Visual Studio 2015\Projects\UCSS_Calculator\UCSS_Calculator\bin\Debug\UCSS_Calculator.xml
+C:\Users\Jhonatan\Documents\Visual Studio 2015\Projects\UCSS_Calculator\UCSS_Calculator\obj\Debug\UCSS_Calculator.vbprojResolveAssemblyReference.cache
+C:\Users\Jhonatan\Documents\Visual Studio 2015\Projects\UCSS_Calculator\UCSS_Calculator\obj\Debug\UCSS_Calculator.Form1.resources
+C:\Users\Jhonatan\Documents\Visual Studio 2015\Projects\UCSS_Calculator\UCSS_Calculator\obj\Debug\UCSS_Calculator.Resources.resources
+C:\Users\Jhonatan\Documents\Visual Studio 2015\Projects\UCSS_Calculator\UCSS_Calculator\obj\Debug\UCSS_Calculator.vbproj.GenerateResource.Cache
+C:\Users\Jhonatan\Documents\Visual Studio 2015\Projects\UCSS_Calculator\UCSS_Calculator\obj\Debug\UCSS_Calculator.exe
+C:\Users\Jhonatan\Documents\Visual Studio 2015\Projects\UCSS_Calculator\UCSS_Calculator\obj\Debug\UCSS_Calculator.xml
+C:\Users\Jhonatan\Documents\Visual Studio 2015\Projects\UCSS_Calculator\UCSS_Calculator\obj\Debug\UCSS_Calculator.pdb
+C:\Users\Jhonatan\Documents\Visual Studio 2015\Projects\UCSS_Calculator\UCSS_Calculator\bin\Debug\UCSS_Calculator.exe.manifest
+C:\Users\Jhonatan\Documents\Visual Studio 2015\Projects\UCSS_Calculator\UCSS_Calculator\bin\Debug\UCSS_Calculator.application
+C:\Users\Jhonatan\Documents\Visual Studio 2015\Projects\UCSS_Calculator\UCSS_Calculator\obj\Debug\UCSS_Calculator.exe.manifest
+C:\Users\Jhonatan\Documents\Visual Studio 2015\Projects\UCSS_Calculator\UCSS_Calculator\obj\Debug\UCSS_Calculator.application
